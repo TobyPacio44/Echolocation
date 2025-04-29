@@ -2,4 +2,10 @@
 Program zaliczeniowy na Fizykę, oblicza echolokację nietoperza względem obiektów w otoczeniu.
 
 ## Description
-A Python script with a simple window gui
+Prosty kod Pythonowy z interfejsem
+
+## Wpisywanie danych 
+![](screen1.png)
+
+## Wynik końcowy
+![](screen2.png)

@@ -1,5 +1,5 @@
 ## Collaborants
-[Prosty kod Pythonowy z interfejsem](https://github.com/xIshikiri)
+[xIshikiri](https://github.com/xIshikiri)
 
 # Echolocation
 Program zaliczeniowy na Fizykę, oblicza echolokację nietoperza względem obiektów w otoczeniu.
